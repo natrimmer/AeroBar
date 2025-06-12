@@ -43,7 +43,7 @@ exec-on-workspace-change = ['/path/to/aerobar/.build/release/AeroBar', '--callba
 
 ## Roadmap
 
-- [ ] Devenv setup
+- [ ] ~~Devenv setup~~ (serious limitations for Swift development)
 - [ ] Homebrew release
 - [ ] Configuration documentation
 
